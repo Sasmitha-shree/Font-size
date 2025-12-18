@@ -1,6 +1,6 @@
 ## Font-size
 ---
-Features:
+## Features:
 
 - Increase font size dynamically with a button.
 
